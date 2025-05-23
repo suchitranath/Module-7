@@ -1,4 +1,4 @@
-#  Taylor Series Using Recursion in Python
+#  EX 7(D)Taylor Series Using Recursion in Python
 
 ## AIM:
 To write a Python program to evaluate a **Taylor Series** using **recursion**, where values of `x` and `n` are taken from the user.
