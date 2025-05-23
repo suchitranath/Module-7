@@ -1,9 +1,9 @@
-# 🔁 Types of Recursion: Head Recursion in Python
+# EX.No:7(A) Types of Recursion: Head Recursion in Python
 
-## 🎯 AIM:
+## AIM:
 To write a Python program to demonstrate **Head Recursion** by finding and printing the sequence based on the sum of all digits (even or odd adjusted input).
 
-## 🧠 ALGORITHM:
+## ALGORITHM:
 
 1. **Start**
 2. Define a recursive function `fun(n)`
@@ -15,10 +15,22 @@ To write a Python program to demonstrate **Head Recursion** by finding and print
 6. Call the recursive function
 7. **Stop**
 
-## 💻 PROGRAM:
+## PROGRAM:
+```
+def fun(n): 
+    if (n >0): 
+       fun(n - 2) 
+       print(n-1, end=" )
+x = int(input()) 
+if(x%2==0): 
+   fun(x ) 
+else: 
+   fun(x+1)
+```
 
-ADD CODE HERE
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/d5ed5ee1-45e8-4aba-90b1-564501896c19)
 
 ## RESULT
+Thus, the given program is implemented and executed successfully.
