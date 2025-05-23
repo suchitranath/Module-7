@@ -28,5 +28,7 @@ print(series(x))
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/e6332238-799f-4ac0-b775-2fb39d1058e8)
 
-## RESULT
+## RESULT 
+Thus, the given program is implemented and executed successfully 
